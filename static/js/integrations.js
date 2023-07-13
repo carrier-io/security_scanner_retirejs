@@ -80,7 +80,6 @@ const retirejsIntegration = {
                 add_devdep,
 
                 status,
-                mode,
             } = this
             return {
                 config,
@@ -89,7 +88,6 @@ const retirejsIntegration = {
                 save_intermediates_to,
                 add_devdep,
                 status,
-                mode,
             }
         },
         modal() {
